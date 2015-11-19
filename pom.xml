@@ -16,7 +16,6 @@
 	<description>SciJava Common is a shared library for SciJava software. It provides a plugin framework, with an extensible mechanism for service discovery, backed by its own annotation processor, so that plugins can be loaded dynamically. It is used by both ImageJ and SCIFIO.</description>
 	<url>http://scijava.org/</url>
 	<inceptionYear>2015</inceptionYear>
-
 	<licenses>
 		<license>
 			<name>Simplified BSD License</name>
@@ -51,7 +50,6 @@
 			<timezone>-6</timezone>
 		</developer>
 	</developers>
-
 	<contributors>
 		<contributor>
 			<name>Christian Dietz</name>
@@ -72,12 +70,10 @@
 		<tag>HEAD</tag>
 		<url>https://github.com/scijava/scijava-cache</url>
 	</scm>
-
 	<issueManagement>
 		<system>GitHub Issues</system>
 		<url>https://github.com/scijava/scijava-cache/issues</url>
 	</issueManagement>
-
 	<ciManagement>
 		<system>Jenkins</system>
 		<url>http://jenkins.imagej.net/job/SciJava-cache/</url>
@@ -192,5 +188,4 @@ Institute of Molecular Cell Biology and Genetics.</organizationName>
 			</build>
 		</profile>
 	</profiles>
-
 </project>
