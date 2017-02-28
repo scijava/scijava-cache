@@ -63,8 +63,8 @@
 		<url>https://github.com/scijava/scijava-cache/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/SciJava-cache/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/scijava/scijava-cache</url>
 	</ciManagement>
 
 	<properties>
