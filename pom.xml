@@ -14,7 +14,7 @@
 
 	<name>SciJava Cache</name>
 	<description>SciJava cache implementation using Google Guava.</description>
-	<url>http://scijava.org/</url>
+	<url>https://github.com/scijava/scijava-cache</url>
 	<inceptionYear>2015</inceptionYear>
 	<organization>
 		<name>SciJava</name>
