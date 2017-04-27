@@ -44,7 +44,7 @@ import com.google.common.cache.CacheBuilder;
 /**
  * {@link CacheService} implementation wrapping a guava {@link Cache}.
  *
- * @author Mark Hiner <hinerm@gmail.com>
+ * @author Mark Hiner
  */
 @Plugin(type = Service.class)
 public class GuavaCacheService extends AbstractService implements CacheService {
