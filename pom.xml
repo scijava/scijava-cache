@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>scijava-cache</artifactId>
-	<version>0.1.2-SNAPSHOT</version>
+	<version>0.1.2</version>
 
 	<name>SciJava Cache</name>
 	<description>SciJava cache implementation using Google Guava.</description>
@@ -69,7 +69,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/scijava/scijava-cache</connection>
 		<developerConnection>scm:git:git@github.com:scijava/scijava-cache</developerConnection>
-		<tag>HEAD</tag>
+		<tag>scijava-cache-0.1.2</tag>
 		<url>https://github.com/scijava/scijava-cache</url>
 	</scm>
 	<issueManagement>
